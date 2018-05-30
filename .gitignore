@@ -1,3 +1,7 @@
 *.iml
 *.idea
 *.log
+/base/target/
+/.gitignore
+/gateway/target/
+/manage/target/
